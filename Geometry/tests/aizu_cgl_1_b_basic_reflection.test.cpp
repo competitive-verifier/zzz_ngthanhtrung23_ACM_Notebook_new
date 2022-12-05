@@ -1,9 +1,9 @@
-#define PROBLEM "https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=CGL_1_B"
+// competitive-verifier: PROBLEM https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=CGL_1_B
 
 #include "../../template.h"
 #include "../basic.h"
 
-#define ERROR 1e-9
+// competitive-verifier: ERROR 1e-9
 
 void solve() {
     cout << (fixed) << setprecision(10);

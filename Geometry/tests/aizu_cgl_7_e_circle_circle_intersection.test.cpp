@@ -1,4 +1,4 @@
-#define PROBLEM "https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=CGL_7_E"
+// competitive-verifier: PROBLEM https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=CGL_7_E
 
 // Given 2 intersecting circles, find intersection points
 
@@ -6,7 +6,7 @@
 #include "../basic.h"
 #include "../circle.h"
 
-#define ERROR 1e-6
+// competitive-verifier: ERROR 1e-6
 
 void solve() {
     cout << (fixed) << setprecision(10);

@@ -1,4 +1,4 @@
-#define PROBLEM "https://judge.yosupo.jp/problem/segment_add_get_min"
+// competitive-verifier: PROBLEM https://judge.yosupo.jp/problem/segment_add_get_min
 
 #include <bits/stdc++.h>
 using namespace std;

@@ -1,4 +1,4 @@
-#define PROBLEM "https://yukicoder.me/problems/no/674"
+// competitive-verifier: PROBLEM https://yukicoder.me/problems/no/674
 
 #include "../../template.h"
 #include "../RangeSet.h"

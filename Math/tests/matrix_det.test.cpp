@@ -1,4 +1,4 @@
-#define PROBLEM "https://judge.yosupo.jp/problem/matrix_det"
+// competitive-verifier: PROBLEM https://judge.yosupo.jp/problem/matrix_det
 
 #include <bits/stdc++.h>
 #include "../../atcoder/modint.hpp"

@@ -1,4 +1,4 @@
-#define PROBLEM "https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=CGL_7_D"
+// competitive-verifier: PROBLEM https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=CGL_7_D
 
 // Given circle and line. Print intersection points (there are always >= 1)
 
@@ -6,7 +6,7 @@
 #include "../basic.h"
 #include "../circle.h"
 
-#define ERROR 1e-6
+// competitive-verifier: ERROR 1e-6
 
 void solve() {
     Circle c; cin >> c;

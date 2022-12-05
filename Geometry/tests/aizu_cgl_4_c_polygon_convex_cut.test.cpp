@@ -1,10 +1,10 @@
-#define PROBLEM "https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=CGL_4_C"
+// competitive-verifier: PROBLEM https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=CGL_4_C
 
 #include "../../template.h"
 #include "../basic.h"
 #include "../polygon.h"
 
-#define ERROR 1e-6
+// competitive-verifier: ERROR 1e-6
 
 void solve() {
     int n; cin >> n;

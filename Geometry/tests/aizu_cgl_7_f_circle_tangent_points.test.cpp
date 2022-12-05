@@ -1,4 +1,4 @@
-#define PROBLEM "https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=CGL_7_F"
+// competitive-verifier: PROBLEM https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=CGL_7_F
 
 // Given point p and circle c. p is outside c. Find all tangents and print tangent points on c.
 
@@ -6,7 +6,7 @@
 #include "../basic.h"
 #include "../circle.h"
 
-#define ERROR 1e-6
+// competitive-verifier: ERROR 1e-6
 
 void solve() {
     cout << (fixed) << setprecision(10);
